@@ -1,0 +1,19 @@
+y\le-0.2\left(x+10\right)^{2}\ \left\{y\ge-10\right\}
+y\le-0.2\left(x-10\right)^{2}\ \left\{y\ge-10\right\}
+-0.051x^{2}+3\ \ \le\ y\ \le-0.05x^{2}+3.5\ \left\{-9<x<9\right\}
+-0.2\le x\le0.2\ \left\{\ 3\ >\ y\ >\ 0\right\}
+-0.2+1\le x\le0.2+1\ \left\{\ 3\ >\ y\ >\ 0\right\}
+-0.2-1\le x\le0.2-1\ \left\{\ 3\ >\ y\ >\ 0\right\}
+-0.2+2\le x\le0.2+2\ \left\{\ 2.85\ >\ y\ >\ 0\right\}
+-0.2-2\le x\le0.2-2\ \left\{\ 2.85\ >\ y\ >\ 0\right\}
+-0.2+3\le x\le0.2+3\ \left\{\ 2.6\ >\ y\ >\ 0\right\}
+-0.2-3\le x\le0.2-3\ \left\{\ 2.6\ >\ y\ >\ 0\right\}
+-0.2+4\le x\le0.2+4\ \left\{\ 2.25\ >\ y\ >\ 0\right\}
+-0.2-4\le x\le0.2-4\ \left\{\ 2.25\ >\ y\ >\ 0\right\}
+-0.2+5\le x\le0.2+5\ \left\{\ 1.8\ >\ y\ >\ 0\right\}
+-0.2-5\le x\le0.2-5\ \left\{\ 1.8\ >\ y\ >\ 0\right\}
+-0.2+6\le x\le0.2+6\ \left\{\ 1.25\ >\ y\ >\ 0\right\}
+-0.2-6\le x\le0.2-6\ \left\{\ 1.25\ >\ y\ >\ 0\right\}
+-0.2+7\le x\le0.2+7\ \left\{\ 0.6\ >\ y\ >\ 0\right\}
+-0.2-7\le x\le0.2-7\ \left\{\ 0.6\ >\ y\ >\ 0\right\}
+-0.4\le y\le0\ \left\{-10<x<10\right\}
